@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/themiddleermine/hoodbot">
-    <img src="middle.png" alt="Logo" width="120" height="120">
+    <img src="img/middle.png" alt="Logo" width="120" height="120">
   </a>
 
 <h3 align="center">Hood Bot</h3>
